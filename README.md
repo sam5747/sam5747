@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Sam 👋
 
-<!--
-**sam5747/sam5747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a quiet and passionate **software developer** who loves building cool things with code and exploring new technologies. When I'm not coding, you'll likely find me immersed in the world of video games.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript (Node.js, Express.js), HTML, CSS, C, C++, Java (basics)
+- **Frameworks/Libraries:** React, Express.js, Mongoose
+- **Databases:** MongoDB
+- **Other Tools:** Figma
+
+## 🚀 Notable Project
+
+- **Brain Tumor Detection**  
+  Developed an intelligent system for brain tumor detection using **PSO (Particle Swarm Optimization)**, **CNN (Convolutional Neural Networks)**, and **LSTM (Long Short-Term Memory)** architectures.
+  > _A blend of machine learning and deep learning to make a real-world impact._
+
+## 🎮 Beyond Coding
+
+I’m a quiet person at heart and enjoy relaxing with video games when I’m not programming.
+
+---
+
+Feel free to connect, collaborate, or check out my projects!
