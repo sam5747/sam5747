@@ -1,4 +1,4 @@
-# Hi there, I'm Sam 👋
+# Hi there, I'm Sri Abhishek Mamidi 👋
 
 I'm a quiet and passionate **software developer** who loves building cool things with code and exploring new technologies. When I'm not coding, you'll likely find me immersed in the world of video games.
 
